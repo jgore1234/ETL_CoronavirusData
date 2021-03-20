@@ -1,4 +1,4 @@
-USAState,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,TotalTests,Population
+state_name,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,TotalTests,state_population
 California,3635598,,56824.0,,1914453.0,1664321.0,51601716.0,39512223.0
 Texas,2749440,,47257.0,,2590824.0,111359.0,24507017.0,28995881.0
 Florida,1994117,,32613.0,,1329665.0,631839.0,24357867.0,21477737.0
