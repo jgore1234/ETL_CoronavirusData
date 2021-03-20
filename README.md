@@ -29,21 +29,7 @@ Earnings by Educational Attainment,
 Demographics,
 Density & Population of US
 
-#### 10 States based on Population
-
-##### _States with the Largest Population_
-*California- 39,613,500
-*Texas- 29,730,300,
-*Florida- 21,730,300,
-*New York- 19,300,000,
-*Pennsylvania- 12,804,100
-
-##### _State with the Smallest Population_
-*South Dakota- 578,666
-*North Dakota- 581,379
-*Alaska- 597,319
-*Vermont- 495,267
-*Wyoming- 268,837
+#### All States with different demographic data
 
 
 ## _Transform:_
