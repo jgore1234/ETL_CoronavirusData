@@ -1,10 +1,10 @@
 # ETL_CoronavirusData
 
 ## BoxPlot Jellyfish
-Grace Li
-James Milne
-John Gore
-Natali Gracia
+- Grace Li
+- James Milne
+- John Gore
+- Natali Gracia
 
 ## Jellylike Mesoglea (Our Question/Hypothesis)
 What are the relationships and trends between coronavirus cases and deaths in comparison to density, to income, and race by state's population?
