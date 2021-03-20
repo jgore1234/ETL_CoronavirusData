@@ -16,9 +16,9 @@ INSERT S3, CSV, MY SQL, JSON IMAGES
 Feeding Arms
 
 ### Data Sources:
-- https://www.worldometers.info/coronavirus/country/us/
-- https://worldpopulationreview.com/states
-- https://worldpopulationreview.com/state-rankings/number-of-registered-voters-by-state
+*https://www.worldometers.info/coronavirus/country/us/
+*https://worldpopulationreview.com/states
+*https://worldpopulationreview.com/state-rankings/number-of-registered-voters-by-state
 
 Webscraping Coronvirus Data on State Level via 
 Webscraping JSON Links used through Inspect and Links
@@ -28,6 +28,7 @@ Income by Household Type,
 Earnings by Educational Attainment,
 Demographics,
 Density & Population of US
+
 
 #### All States with different demographic data
 
