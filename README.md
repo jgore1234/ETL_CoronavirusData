@@ -1,10 +1,10 @@
 # ETL_CoronavirusData
 
 ## BoxPlot Jellyfish
-Grace Li
-James Milne
-John Gore
-Natali Gracia
+- Grace Li
+- James Milne
+- John Gore
+- Natali Gracia
 
 ## Jellylike Mesoglea (Our Question/Hypothesis)
 What are the relationships and trends between coronavirus cases and deaths in comparison to density, to income, and race by state's population?
@@ -16,9 +16,9 @@ INSERT S3, CSV, MY SQL, JSON IMAGES
 Feeding Arms
 
 ### Data Sources:
-*https://www.worldometers.info/coronavirus/country/us/
-*https://worldpopulationreview.com/states
-*https://worldpopulationreview.com/state-rankings/number-of-registered-voters-by-state
+- https://www.worldometers.info/coronavirus/country/us/
+- https://worldpopulationreview.com/states
+- https://worldpopulationreview.com/state-rankings/number-of-registered-voters-by-state
 
 Webscraping Coronvirus Data on State Level via 
 Webscraping JSON Links used through Inspect and Links
@@ -29,21 +29,8 @@ Earnings by Educational Attainment,
 Demographics,
 Density & Population of US
 
-#### 10 States based on Population
 
-##### _States with the Largest Population_
-*California- 39,613,500
-*Texas- 29,730,300,
-*Florida- 21,730,300,
-*New York- 19,300,000,
-*Pennsylvania- 12,804,100
-
-##### _State with the Smallest Population_
-*South Dakota- 578,666
-*North Dakota- 581,379
-*Alaska- 597,319
-*Vermont- 495,267
-*Wyoming- 268,837
+#### All States with different demographic data
 
 
 ## _Transform:_
