@@ -1,0 +1,358 @@
+race_pop_id,state_id,state_name,race_id,state_pop_race,state_pop_race_count,state_pop_race_percentage
+1,1,California,1,White,23453210.0,0.597
+8,2,Texas,1,White,20903340.0,0.7397
+15,3,Florida,1,White,15702210.0,0.7512
+22,4,New York,1,White,12459680.0,0.6366
+29,8,Pennsylvania,1,White,10300599.0,0.8053
+36,5,Illinois,1,White,9134900.0,0.7153
+43,7,Ohio,1,White,9476052.0,0.813
+50,6,Georgia,1,White,6098894.0,0.5862
+57,9,North Carolina,1,White,7049921.0,0.6868
+64,13,Michigan,1,White,7813755.0,0.7841
+71,10,New Jersey,1,White,6018070.0,0.6778
+78,16,Virginia,1,White,5717618.0,0.6763
+85,29,Washington,1,White,5581123.0,0.7538
+92,11,Arizona,1,White,5444460.0,0.7722
+99,12,Tennessee,1,White,5205134.0,0.7758
+106,15,Massachusetts,1,White,5348539.0,0.7807
+113,14,Indiana,1,White,5553390.0,0.8331
+120,18,Missouri,1,White,5015903.0,0.8216
+127,26,Maryland,1,White,3343000.0,0.5554
+134,22,Colorado,1,White,4712573.0,0.84
+141,17,Wisconsin,1,White,4946962.0,0.8543
+148,21,Minnesota,1,White,4609053.0,0.8285
+155,19,South Carolina,1,White,3372010.0,0.6716
+162,20,Alabama,1,White,3320248.0,0.6809
+169,23,Louisiana,1,White,2892278.0,0.6201
+176,25,Kentucky,1,White,3868484.0,0.8695
+183,38,Oregon,1,White,3480918.0,0.8429
+190,24,Oklahoma,1,White,2844069.0,0.7232
+197,34,Connecticut,1,White,2714028.0,0.7592
+204,27,Utah,1,White,2676485.0,0.8643
+211,52,Puerto Rico,1,White,2188013.0,0.6593
+218,33,Nevada,1,White,1949710.0,0.6559
+225,28,Iowa,1,White,2826068.0,0.9002
+232,30,Arkansas,1,White,2301041.0,0.7672
+239,31,Mississippi,1,White,1743220.0,0.5841
+246,32,Kansas,1,White,2455939.0,0.8438
+253,36,New Mexico,1,White,1565366.0,0.7481
+260,35,Nebraska,1,White,1666870.0,0.8706
+267,37,Idaho,1,White,1545406.0,0.8997
+274,39,West Virginia,1,White,1691604.0,0.9308
+282,50,Hawaii,1,White,354847.0,0.2495
+288,45,New Hampshire,1,White,1252131.0,0.9288
+295,48,Maine,1,White,1259521.0,0.9431
+302,42,Montana,1,White,930204.0,0.8854
+309,40,Rhode Island,1,White,850597.0,0.8046
+316,44,Delaware,1,White,658237.0,0.6876
+323,41,South Dakota,1,White,733719.0,0.8427
+330,43,North Dakota,1,White,655136.0,0.8658
+337,46,Alaska,1,White,476015.0,0.6458
+351,51,Vermont,1,White,587883.0,0.9416
+358,47,Wyoming,1,White,531304.0,0.9144
+2,1,California,2,Asian,5692422.0,0.1449
+11,2,Texas,2,Asian,1357269.0,0.048
+19,3,Florida,2,Asian,571276.0,0.0273
+25,4,New York,2,Asian,1647607.0,0.0842
+31,8,Pennsylvania,2,Asian,436324.0,0.0341
+39,5,Illinois,2,Asian,698524.0,0.0547
+46,7,Ohio,2,Asian,258199.0,0.0222
+52,6,Georgia,2,Asian,414481.0,0.0398
+60,9,North Carolina,2,Asian,292992.0,0.0285
+66,13,Michigan,2,Asian,311721.0,0.0313
+73,10,New Jersey,2,Asian,840168.0,0.0946
+80,16,Virginia,2,Asian,541133.0,0.064
+86,29,Washington,2,Asian,631333.0,0.0853
+97,11,Arizona,2,Asian,233213.0,0.0331
+102,12,Tennessee,2,Asian,117600.0,0.0175
+108,15,Massachusetts,2,Asian,452436.0,0.066
+116,14,Indiana,2,Asian,151979.0,0.0228
+123,18,Missouri,2,Asian,120654.0,0.0198
+129,26,Maryland,2,Asian,378126.0,0.0628
+138,22,Colorado,2,Asian,178147.0,0.0318
+143,17,Wisconsin,2,Asian,161841.0,0.0279
+150,21,Minnesota,2,Asian,268181.0,0.0482
+159,19,South Carolina,2,Asian,78805.0,0.0157
+166,20,Alabama,2,Asian,66270.0,0.0136
+172,23,Louisiana,2,Asian,80806.0,0.0173
+179,25,Kentucky,2,Asian,65191.0,0.0147
+185,38,Oregon,2,Asian,180580.0,0.0437
+195,24,Oklahoma,2,Asian,85239.0,0.0217
+200,34,Connecticut,2,Asian,161257.0,0.0451
+207,27,Utah,2,Asian,71977.0,0.0232
+216,52,Puerto Rico,2,Asian,6237.0,0.0019
+221,33,Nevada,2,Asian,242267.0,0.0815
+227,28,Iowa,2,Asian,75741.0,0.0241
+236,30,Arkansas,2,Asian,45504.0,0.0152
+243,31,Mississippi,2,Asian,29605.0,0.0099
+249,32,Kansas,2,Asian,85794.0,0.0295
+258,36,New Mexico,2,Asian,32577.0,0.0156
+263,35,Nebraska,2,Asian,45655.0,0.0238
+270,37,Idaho,2,Asian,24287.0,0.0141
+277,39,West Virginia,2,Asian,14523.0,0.008
+281,50,Hawaii,2,Asian,537355.0,0.3779
+289,45,New Hampshire,2,Asian,36180.0,0.0268
+298,48,Maine,2,Asian,15109.0,0.0113
+305,42,Montana,2,Asian,8259.0,0.0079
+312,40,Rhode Island,2,Asian,35958.0,0.034
+318,44,Delaware,2,Asian,37009.0,0.0387
+327,41,South Dakota,2,Asian,12627.0,0.0145
+334,43,North Dakota,2,Asian,11006.0,0.0145
+340,46,Alaska,2,Asian,45920.0,0.0623
+353,51,Vermont,2,Asian,10461.0,0.0168
+363,47,Wyoming,2,Asian,5025.0,0.0086
+3,1,California,3,Some Other Race,5481789.0,0.1395
+10,2,Texas,3,Some Other Race,1643865.0,0.0582
+17,3,Florida,3,Some Other Race,625079.0,0.0299
+24,4,New York,3,Some Other Race,1694965.0,0.0866
+33,8,Pennsylvania,3,Some Other Race,275177.0,0.0215
+38,5,Illinois,3,Some Other Race,757231.0,0.0593
+47,7,Ohio,3,Some Other Race,112836.0,0.0097
+53,6,Georgia,3,Some Other Race,291872.0,0.0281
+59,9,North Carolina,3,Some Other Race,316763.0,0.0309
+68,13,Michigan,3,Some Other Race,117801.0,0.0118
+74,10,New Jersey,3,Some Other Race,558665.0,0.0629
+82,16,Virginia,3,Some Other Race,223794.0,0.0265
+88,29,Washington,3,Some Other Race,333038.0,0.045
+93,11,Arizona,3,Some Other Race,460262.0,0.0653
+103,12,Tennessee,3,Some Other Race,92655.0,0.0138
+109,15,Massachusetts,3,Some Other Race,286619.0,0.0418
+117,14,Indiana,3,Some Other Race,145747.0,0.0219
+124,18,Missouri,3,Some Other Race,71335.0,0.0117
+130,26,Maryland,3,Some Other Race,272137.0,0.0452
+136,22,Colorado,3,Some Other Race,216767.0,0.0386
+145,17,Wisconsin,3,Some Other Race,118350.0,0.0204
+152,21,Minnesota,3,Some Other Race,104032.0,0.0187
+158,19,South Carolina,3,Some Other Race,88274.0,0.0176
+165,20,Alabama,3,Some Other Race,70662.0,0.0145
+173,23,Louisiana,3,Some Other Race,65592.0,0.0141
+180,25,Kentucky,3,Some Other Race,43601.0,0.0098
+186,38,Oregon,3,Some Other Race,126587.0,0.0307
+194,24,Oklahoma,3,Some Other Race,106709.0,0.0271
+199,34,Connecticut,3,Some Other Race,186292.0,0.0521
+205,27,Utah,3,Some Other Race,156229.0,0.0504
+212,52,Puerto Rico,3,Some Other Race,554764.0,0.1672
+219,33,Nevada,3,Some Other Race,304947.0,0.1026
+229,28,Iowa,3,Some Other Race,39048.0,0.0124
+234,30,Arkansas,3,Some Other Race,83576.0,0.0279
+242,31,Mississippi,3,Some Other Race,30728.0,0.0103
+250,32,Kansas,3,Some Other Race,71683.0,0.0246
+255,36,New Mexico,3,Some Other Race,180638.0,0.0863
+264,35,Nebraska,3,Some Other Race,40253.0,0.021
+268,37,Idaho,3,Some Other Race,59676.0,0.0347
+278,39,West Virginia,3,Some Other Race,7971.0,0.0044
+286,50,Hawaii,3,Some Other Race,17433.0,0.0123
+292,45,New Hampshire,3,Some Other Race,7510.0,0.0056
+300,48,Maine,3,Some Other Race,3541.0,0.0027
+306,42,Montana,3,Some Other Race,7076.0,0.0067
+311,40,Rhode Island,3,Some Other Race,57807.0,0.0547
+320,44,Delaware,3,Some Other Race,18350.0,0.0192
+328,41,South Dakota,3,Some Other Race,7230.0,0.0083
+335,43,North Dakota,3,Some Other Race,8109.0,0.0107
+342,46,Alaska,3,Some Other Race,11308.0,0.0153
+355,51,Vermont,3,Some Other Race,2410.0,0.0039
+361,47,Wyoming,3,Some Other Race,8832.0,0.0152
+4,1,California,4,Black or African American,2274113.0,0.0579
+9,2,Texas,4,Black or African American,3428214.0,0.1213
+16,3,Florida,4,Black or African American,3359034.0,0.1607
+23,4,New York,4,Black or African American,3065467.0,0.1566
+30,8,Pennsylvania,4,Black or African American,1430661.0,0.1118
+37,5,Illinois,4,Black or African American,1813592.0,0.142
+44,7,Ohio,4,Black or African American,1446196.0,0.1241
+51,6,Georgia,4,Black or African American,3289022.0,0.3161
+58,9,North Carolina,4,Black or African American,2200760.0,0.2144
+65,13,Michigan,4,Black or African American,1374310.0,0.1379
+72,10,New Jersey,4,Black or African American,1194881.0,0.1346
+79,16,Virginia,4,Black or African American,1621596.0,0.1918
+89,29,Washington,4,Black or African American,281683.0,0.038
+94,11,Arizona,4,Black or African American,317462.0,0.045
+100,12,Tennessee,4,Black or African American,1124475.0,0.1676
+107,15,Massachusetts,4,Black or African American,522357.0,0.0763
+114,14,Indiana,4,Black or African American,626587.0,0.094
+121,18,Missouri,4,Black or African American,701334.0,0.1149
+128,26,Maryland,4,Black or African American,1799098.0,0.2989
+135,22,Colorado,4,Black or African American,233647.0,0.0416
+142,17,Wisconsin,4,Black or African American,371200.0,0.0641
+149,21,Minnesota,4,Black or African American,356515.0,0.0641
+156,19,South Carolina,4,Black or African American,1344143.0,0.2677
+163,20,Alabama,4,Black or African American,1299044.0,0.2664
+170,23,Louisiana,4,Black or African American,1502967.0,0.3222
+177,25,Kentucky,4,Black or African American,358928.0,0.0807
+187,38,Oregon,4,Black or African American,78679.0,0.0191
+193,24,Oklahoma,4,Black or African American,286356.0,0.0728
+198,34,Connecticut,4,Black or African American,383416.0,0.1072
+208,27,Utah,4,Black or African American,36849.0,0.0119
+213,52,Puerto Rico,4,Black or African American,386676.0,0.1165
+220,33,Nevada,4,Black or African American,271005.0,0.0912
+226,28,Iowa,4,Black or African American,116359.0,0.0371
+233,30,Arkansas,4,Black or African American,459542.0,0.1532
+240,31,Mississippi,4,Black or African American,1125627.0,0.3772
+247,32,Kansas,4,Black or African American,170291.0,0.0585
+257,36,New Mexico,4,Black or African American,44120.0,0.0211
+261,35,Nebraska,4,Black or African American,92406.0,0.0483
+272,37,Idaho,4,Black or African American,11918.0,0.0069
+275,39,West Virginia,4,Black or African American,66990.0,0.0369
+285,50,Hawaii,4,Black or African American,26025.0,0.0183
+291,45,New Hampshire,4,Black or African American,21546.0,0.016
+297,48,Maine,4,Black or African American,18468.0,0.0138
+307,42,Montana,4,Black or African American,5303.0,0.005
+310,40,Rhode Island,4,Black or African American,71561.0,0.0677
+317,44,Delaware,4,Black or African American,212302.0,0.2218
+326,41,South Dakota,4,Black or African American,17531.0,0.0201
+332,43,North Dakota,4,Black or African American,21985.0,0.0291
+341,46,Alaska,4,Black or African American,24205.0,0.0328
+354,51,Vermont,4,Black or African American,8502.0,0.0136
+362,47,Wyoming,4,Black or African American,5582.0,0.0096
+5,1,California,5,Two or More Races,1922661.0,0.0489
+12,2,Texas,5,Two or More Races,761411.0,0.0269
+18,3,Florida,5,Two or More Races,572021.0,0.0274
+26,4,New York,5,Two or More Races,616257.0,0.0315
+32,8,Pennsylvania,5,Two or More Races,319874.0,0.025
+40,5,Illinois,5,Two or More Races,328446.0,0.0257
+45,7,Ohio,5,Two or More Races,335426.0,0.0288
+54,6,Georgia,5,Two or More Races,265912.0,0.0256
+61,9,North Carolina,5,Two or More Races,273276.0,0.0266
+67,13,Michigan,5,Two or More Races,291259.0,0.0292
+75,10,New Jersey,5,Two or More Races,243545.0,0.0274
+81,16,Virginia,5,Two or More Races,320275.0,0.0379
+87,29,Washington,5,Two or More Races,433386.0,0.0585
+96,11,Arizona,5,Two or More Races,263037.0,0.0373
+101,12,Tennessee,5,Two or More Races,147536.0,0.022
+110,15,Massachusetts,5,Two or More Races,223035.0,0.0326
+115,14,Indiana,5,Two or More Races,169711.0,0.0255
+122,18,Missouri,5,Two or More Races,160368.0,0.0263
+131,26,Maryland,5,Two or More Races,206692.0,0.0343
+137,22,Colorado,5,Two or More Races,205724.0,0.0367
+144,17,Wisconsin,5,Two or More Races,138572.0,0.0239
+151,21,Minnesota,5,Two or More Races,165396.0,0.0297
+157,19,South Carolina,5,Two or More Races,115930.0,0.0231
+164,20,Alabama,5,Two or More Races,92220.0,0.0189
+171,23,Louisiana,5,Two or More Races,94959.0,0.0204
+178,25,Kentucky,5,Two or More Races,100285.0,0.0225
+184,38,Oregon,5,Two or More Races,198352.0,0.048
+191,24,Oklahoma,5,Two or More Races,304615.0,0.0775
+201,34,Connecticut,5,Two or More Races,119000.0,0.0333
+206,27,Utah,5,Two or More Races,94036.0,0.0304
+214,52,Puerto Rico,5,Two or More Races,175649.0,0.0529
+222,33,Nevada,5,Two or More Races,146408.0,0.0493
+228,28,Iowa,5,Two or More Races,66585.0,0.0212
+235,30,Arkansas,5,Two or More Races,80537.0,0.0269
+241,31,Mississippi,5,Two or More Races,40296.0,0.0135
+248,32,Kansas,5,Two or More Races,100557.0,0.0345
+256,36,New Mexico,5,Two or More Races,68264.0,0.0326
+262,35,Nebraska,5,Two or More Races,50386.0,0.0263
+269,37,Idaho,5,Two or More Races,50569.0,0.0294
+276,39,West Virginia,5,Two or More Races,32135.0,0.0177
+283,50,Hawaii,5,Two or More Races,339727.0,0.2389
+290,45,New Hampshire,5,Two or More Races,28281.0,0.021
+296,48,Maine,5,Two or More Races,29796.0,0.0223
+304,42,Montana,5,Two or More Races,32161.0,0.0306
+313,40,Rhode Island,5,Two or More Races,35221.0,0.0333
+319,44,Delaware,5,Two or More Races,27079.0,0.0283
+325,41,South Dakota,5,Two or More Races,22837.0,0.0262
+333,43,North Dakota,5,Two or More Races,19612.0,0.0259
+339,46,Alaska,5,Two or More Races,60665.0,0.0823
+352,51,Vermont,5,Two or More Races,12600.0,0.0202
+359,47,Wyoming,5,Two or More Races,15521.0,0.0267
+6,1,California,6,American Indian and Alaska Native,303998.0,0.0077
+13,2,Texas,6,American Indian and Alaska Native,141425.0,0.005
+20,3,Florida,6,American Indian and Alaska Native,59320.0,0.0028
+27,4,New York,6,American Indian and Alaska Native,79512.0,0.0041
+34,8,Pennsylvania,6,American Indian and Alaska Native,24691.0,0.0019
+41,5,Illinois,6,American Indian and Alaska Native,33460.0,0.0026
+48,7,Ohio,6,American Indian and Alaska Native,22816.0,0.002
+55,6,Georgia,6,American Indian and Alaska Native,37440.0,0.0036
+62,9,North Carolina,6,American Indian and Alaska Native,123952.0,0.0121
+69,13,Michigan,6,American Indian and Alaska Native,53316.0,0.0054
+76,10,New Jersey,6,American Indian and Alaska Native,19711.0,0.0022
+83,16,Virginia,6,American Indian and Alaska Native,23873.0,0.0028
+90,29,Washington,6,American Indian and Alaska Native,94449.0,0.0128
+95,11,Arizona,6,American Indian and Alaska Native,317414.0,0.045
+104,12,Tennessee,6,American Indian and Alaska Native,18189.0,0.0027
+111,15,Massachusetts,6,American Indian and Alaska Native,14764.0,0.0022
+118,14,Indiana,6,American Indian and Alaska Native,15782.0,0.0024
+125,18,Missouri,6,American Indian and Alaska Native,27084.0,0.0044
+132,26,Maryland,6,American Indian and Alaska Native,16762.0,0.0028
+139,22,Colorado,6,American Indian and Alaska Native,54847.0,0.0098
+146,17,Wisconsin,6,American Indian and Alaska Native,51392.0,0.0089
+153,21,Minnesota,6,American Indian and Alaska Native,58011.0,0.0104
+160,19,South Carolina,6,American Indian and Alaska Native,17645.0,0.0035
+167,20,Alabama,6,American Indian and Alaska Native,25565.0,0.0052
+174,23,Louisiana,6,American Indian and Alaska Native,26361.0,0.0057
+181,25,Kentucky,6,American Indian and Alaska Native,9386.0,0.0021
+188,38,Oregon,6,American Indian and Alaska Native,48060.0,0.0116
+192,24,Oklahoma,6,American Indian and Alaska Native,299621.0,0.0762
+202,34,Connecticut,6,American Indian and Alaska Native,9955.0,0.0028
+209,27,Utah,6,American Indian and Alaska Native,33721.0,0.0109
+215,52,Puerto Rico,6,American Indian and Alaska Native,6838.0,0.0021
+223,33,Nevada,6,American Indian and Alaska Native,38026.0,0.0128
+230,28,Iowa,6,American Indian and Alaska Native,11976.0,0.0038
+237,30,Arkansas,6,American Indian and Alaska Native,20434.0,0.0068
+244,31,Mississippi,6,American Indian and Alaska Native,14269.0,0.0048
+251,32,Kansas,6,American Indian and Alaska Native,24010.0,0.0082
+254,36,New Mexico,6,American Indian and Alaska Native,199845.0,0.0955
+265,35,Nebraska,6,American Indian and Alaska Native,17673.0,0.0092
+271,37,Idaho,6,American Indian and Alaska Native,23136.0,0.0135
+279,39,West Virginia,6,American Indian and Alaska Native,3667.0,0.002
+287,50,Hawaii,6,American Indian and Alaska Native,3710.0,0.0026
+293,45,New Hampshire,6,American Indian and Alaska Native,2036.0,0.0015
+299,48,Maine,6,American Indian and Alaska Native,8660.0,0.0065
+303,42,Montana,6,American Indian and Alaska Native,66839.0,0.0636
+314,40,Rhode Island,6,American Indian and Alaska Native,5277.0,0.005
+321,44,Delaware,6,American Indian and Alaska Native,3729.0,0.0039
+324,41,South Dakota,6,American Indian and Alaska Native,76190.0,0.0875
+331,43,North Dakota,6,American Indian and Alaska Native,40006.0,0.0529
+338,46,Alaska,6,American Indian and Alaska Native,109751.0,0.1489
+356,51,Vermont,6,American Indian and Alaska Native,2132.0,0.0034
+360,47,Wyoming,6,American Indian and Alaska Native,14164.0,0.0244
+7,1,California,7,Native Hawaiian and Other Pacific Islander,155290.0,0.004
+14,2,Texas,7,Native Hawaiian and Other Pacific Islander,25292.0,0.0009
+21,3,Florida,7,Native Hawaiian and Other Pacific Islander,12653.0,0.0006
+28,4,New York,7,Native Hawaiian and Other Pacific Islander,8821.0,0.0005
+35,8,Pennsylvania,7,Native Hawaiian and Other Pacific Islander,4198.0,0.0003
+42,5,Illinois,7,Native Hawaiian and Other Pacific Islander,4477.0,0.0004
+49,7,Ohio,7,Native Hawaiian and Other Pacific Islander,3880.0,0.0003
+56,6,Georgia,7,Native Hawaiian and Other Pacific Islander,6233.0,0.0006
+63,9,North Carolina,7,Native Hawaiian and Other Pacific Islander,7213.0,0.0007
+70,13,Michigan,7,Native Hawaiian and Other Pacific Islander,3099.0,0.0003
+77,10,New Jersey,7,Native Hawaiian and Other Pacific Islander,3458.0,0.0004
+84,16,Virginia,7,Native Hawaiian and Other Pacific Islander,6179.0,0.0007
+91,29,Washington,7,Native Hawaiian and Other Pacific Islander,49090.0,0.0066
+98,11,Arizona,7,Native Hawaiian and Other Pacific Islander,14458.0,0.0021
+105,12,Tennessee,7,Native Hawaiian and Other Pacific Islander,3771.0,0.0006
+112,15,Massachusetts,7,Native Hawaiian and Other Pacific Islander,2804.0,0.0004
+119,14,Indiana,7,Native Hawaiian and Other Pacific Islander,2506.0,0.0004
+126,18,Missouri,7,Native Hawaiian and Other Pacific Islander,8231.0,0.0013
+133,26,Maryland,7,Native Hawaiian and Other Pacific Islander,3034.0,0.0005
+140,22,Colorado,7,Native Hawaiian and Other Pacific Islander,8643.0,0.0015
+147,17,Wisconsin,7,Native Hawaiian and Other Pacific Islander,2400.0,0.0004
+154,21,Minnesota,7,Native Hawaiian and Other Pacific Islander,2194.0,0.0004
+161,19,South Carolina,7,Native Hawaiian and Other Pacific Islander,4002.0,0.0008
+168,20,Alabama,7,Native Hawaiian and Other Pacific Islander,2238.0,0.0005
+175,23,Louisiana,7,Native Hawaiian and Other Pacific Islander,1406.0,0.0003
+182,25,Kentucky,7,Native Hawaiian and Other Pacific Islander,3182.0,0.0007
+189,38,Oregon,7,Native Hawaiian and Other Pacific Islander,16625.0,0.004
+196,24,Oklahoma,7,Native Hawaiian and Other Pacific Islander,6260.0,0.0016
+203,34,Connecticut,7,Native Hawaiian and Other Pacific Islander,1123.0,0.0003
+210,27,Utah,7,Native Hawaiian and Other Pacific Islander,27554.0,0.0089
+217,52,Puerto Rico,7,Native Hawaiian and Other Pacific Islander,269.0,0.0001
+224,33,Nevada,7,Native Hawaiian and Other Pacific Islander,20022.0,0.0067
+231,28,Iowa,7,Native Hawaiian and Other Pacific Islander,3729.0,0.0012
+238,30,Arkansas,7,Native Hawaiian and Other Pacific Islander,8733.0,0.0029
+245,31,Mississippi,7,Native Hawaiian and Other Pacific Islander,680.0,0.0002
+252,32,Kansas,7,Native Hawaiian and Other Pacific Islander,2382.0,0.0008
+259,36,New Mexico,7,Native Hawaiian and Other Pacific Islander,1644.0,0.0008
+266,35,Nebraska,7,Native Hawaiian and Other Pacific Islander,1327.0,0.0007
+273,37,Idaho,7,Native Hawaiian and Other Pacific Islander,2755.0,0.0016
+280,39,West Virginia,7,Native Hawaiian and Other Pacific Islander,419.0,0.0002
+284,50,Hawaii,7,Native Hawaiian and Other Pacific Islander,142997.0,0.1006
+294,45,New Hampshire,7,Native Hawaiian and Other Pacific Islander,443.0,0.0003
+301,48,Maine,7,Native Hawaiian and Other Pacific Islander,396.0,0.0003
+308,42,Montana,7,Native Hawaiian and Other Pacific Islander,807.0,0.0008
+315,40,Rhode Island,7,Native Hawaiian and Other Pacific Islander,810.0,0.0008
+322,44,Delaware,7,Native Hawaiian and Other Pacific Islander,542.0,0.0006
+329,41,South Dakota,7,Native Hawaiian and Other Pacific Islander,504.0,0.0006
+336,43,North Dakota,7,Native Hawaiian and Other Pacific Islander,863.0,0.0011
+343,46,Alaska,7,Native Hawaiian and Other Pacific Islander,9204.0,0.0125
+357,51,Vermont,7,Native Hawaiian and Other Pacific Islander,325.0,0.0005
+364,47,Wyoming,7,Native Hawaiian and Other Pacific Islander,596.0,0.001
