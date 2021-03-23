@@ -1,0 +1,14 @@
+select * 
+from covid_data as cd
+join state_pop_data as spd
+on cd.state_id = spd.state_id
+join population_byrace as pbr
+on cd.state_id = pbr.state_id
+join race_data as rd
+on pbr.race_id = rd.race_id
+join population_eduattain as pea
+on cd.state_id = pea.state_id
+join population_earnings as pe
+on cd.state_id = pe.state_id
+join education_map as em
+on pe.state_earning_edu_id = em.state_earning_edu_id;
