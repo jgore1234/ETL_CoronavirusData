@@ -1,0 +1,365 @@
+race_pop_id,state_id,state_name,race_id,state_pop_race,state_pop_race_count,state_pop_race_percentage
+1,20,Alabama,1,White,3320248,0.6809
+2,20,Alabama,4,Black or African American,1299044,0.2664
+3,20,Alabama,5,Two or More Races,92220,0.0189
+4,20,Alabama,3,Some Other Race,70662,0.0145
+5,20,Alabama,2,Asian,66270,0.0136
+6,20,Alabama,6,American Indian and Alaska Native,25565,0.0052
+7,20,Alabama,7,Native Hawaiian and Other Pacific Islander,2238,0.0005
+8,46,Alaska,1,White,476015,0.6458
+9,46,Alaska,6,American Indian and Alaska Native,109751,0.1489
+10,46,Alaska,5,Two or More Races,60665,0.0823
+11,46,Alaska,2,Asian,45920,0.0623
+12,46,Alaska,4,Black or African American,24205,0.0328
+13,46,Alaska,3,Some Other Race,11308,0.0153
+14,46,Alaska,7,Native Hawaiian and Other Pacific Islander,9204,0.0125
+15,11,Arizona,1,White,5444460,0.7722
+16,11,Arizona,3,Some Other Race,460262,0.0653
+17,11,Arizona,4,Black or African American,317462,0.045
+18,11,Arizona,6,American Indian and Alaska Native,317414,0.045
+19,11,Arizona,5,Two or More Races,263037,0.0373
+20,11,Arizona,2,Asian,233213,0.0331
+21,11,Arizona,7,Native Hawaiian and Other Pacific Islander,14458,0.0021
+22,30,Arkansas,1,White,2301041,0.7672
+23,30,Arkansas,4,Black or African American,459542,0.1532
+24,30,Arkansas,3,Some Other Race,83576,0.0279
+25,30,Arkansas,5,Two or More Races,80537,0.0269
+26,30,Arkansas,2,Asian,45504,0.0152
+27,30,Arkansas,6,American Indian and Alaska Native,20434,0.0068
+28,30,Arkansas,7,Native Hawaiian and Other Pacific Islander,8733,0.0029
+29,1,California,1,White,23453210,0.597
+30,1,California,2,Asian,5692422,0.1449
+31,1,California,3,Some Other Race,5481789,0.1395
+32,1,California,4,Black or African American,2274113,0.0579
+33,1,California,5,Two or More Races,1922661,0.0489
+34,1,California,6,American Indian and Alaska Native,303998,0.0077
+35,1,California,7,Native Hawaiian and Other Pacific Islander,155290,0.004
+36,22,Colorado,1,White,4712573,0.84
+37,22,Colorado,4,Black or African American,233647,0.0416
+38,22,Colorado,3,Some Other Race,216767,0.0386
+39,22,Colorado,5,Two or More Races,205724,0.0367
+40,22,Colorado,2,Asian,178147,0.0318
+41,22,Colorado,6,American Indian and Alaska Native,54847,0.0098
+42,22,Colorado,7,Native Hawaiian and Other Pacific Islander,8643,0.0015
+43,34,Connecticut,1,White,2714028,0.7592
+44,34,Connecticut,4,Black or African American,383416,0.1072
+45,34,Connecticut,3,Some Other Race,186292,0.0521
+46,34,Connecticut,2,Asian,161257,0.0451
+47,34,Connecticut,5,Two or More Races,119000,0.0333
+48,34,Connecticut,6,American Indian and Alaska Native,9955,0.0028
+49,34,Connecticut,7,Native Hawaiian and Other Pacific Islander,1123,0.0003
+50,44,Delaware,1,White,658237,0.6876
+51,44,Delaware,4,Black or African American,212302,0.2218
+52,44,Delaware,2,Asian,37009,0.0387
+53,44,Delaware,5,Two or More Races,27079,0.0283
+54,44,Delaware,3,Some Other Race,18350,0.0192
+55,44,Delaware,6,American Indian and Alaska Native,3729,0.0039
+56,44,Delaware,7,Native Hawaiian and Other Pacific Islander,542,0.0006
+57,49,District of Columbia,4,Black or African American,320811,0.4631
+58,49,District of Columbia,1,White,285857,0.4127
+59,49,District of Columbia,3,Some Other Race,34511,0.0498
+60,49,District of Columbia,2,Asian,27592,0.0398
+61,49,District of Columbia,5,Two or More Races,21445,0.031
+62,49,District of Columbia,6,American Indian and Alaska Native,2091,0.003
+63,49,District of Columbia,7,Native Hawaiian and Other Pacific Islander,376,0.0005
+64,3,Florida,1,White,15702210,0.7512
+65,3,Florida,4,Black or African American,3359034,0.1607
+66,3,Florida,3,Some Other Race,625079,0.0299
+67,3,Florida,5,Two or More Races,572021,0.0274
+68,3,Florida,2,Asian,571276,0.0273
+69,3,Florida,6,American Indian and Alaska Native,59320,0.0028
+70,3,Florida,7,Native Hawaiian and Other Pacific Islander,12653,0.0006
+71,6,Georgia,1,White,6098894,0.5862
+72,6,Georgia,4,Black or African American,3289022,0.3161
+73,6,Georgia,2,Asian,414481,0.0398
+74,6,Georgia,3,Some Other Race,291872,0.0281
+75,6,Georgia,5,Two or More Races,265912,0.0256
+76,6,Georgia,6,American Indian and Alaska Native,37440,0.0036
+77,6,Georgia,7,Native Hawaiian and Other Pacific Islander,6233,0.0006
+78,50,Hawaii,2,Asian,537355,0.3779
+79,50,Hawaii,1,White,354847,0.2495
+80,50,Hawaii,5,Two or More Races,339727,0.2389
+81,50,Hawaii,7,Native Hawaiian and Other Pacific Islander,142997,0.1006
+82,50,Hawaii,4,Black or African American,26025,0.0183
+83,50,Hawaii,3,Some Other Race,17433,0.0123
+84,50,Hawaii,6,American Indian and Alaska Native,3710,0.0026
+85,37,Idaho,1,White,1545406,0.8997
+86,37,Idaho,3,Some Other Race,59676,0.0347
+87,37,Idaho,5,Two or More Races,50569,0.0294
+88,37,Idaho,2,Asian,24287,0.0141
+89,37,Idaho,6,American Indian and Alaska Native,23136,0.0135
+90,37,Idaho,4,Black or African American,11918,0.0069
+91,37,Idaho,7,Native Hawaiian and Other Pacific Islander,2755,0.0016
+92,5,Illinois,1,White,9134900,0.7153
+93,5,Illinois,4,Black or African American,1813592,0.142
+94,5,Illinois,3,Some Other Race,757231,0.0593
+95,5,Illinois,2,Asian,698524,0.0547
+96,5,Illinois,5,Two or More Races,328446,0.0257
+97,5,Illinois,6,American Indian and Alaska Native,33460,0.0026
+98,5,Illinois,7,Native Hawaiian and Other Pacific Islander,4477,0.0004
+99,14,Indiana,1,White,5553390,0.8331
+100,14,Indiana,4,Black or African American,626587,0.094
+101,14,Indiana,5,Two or More Races,169711,0.0255
+102,14,Indiana,2,Asian,151979,0.0228
+103,14,Indiana,3,Some Other Race,145747,0.0219
+104,14,Indiana,6,American Indian and Alaska Native,15782,0.0024
+105,14,Indiana,7,Native Hawaiian and Other Pacific Islander,2506,0.0004
+106,28,Iowa,1,White,2826068,0.9002
+107,28,Iowa,4,Black or African American,116359,0.0371
+108,28,Iowa,2,Asian,75741,0.0241
+109,28,Iowa,5,Two or More Races,66585,0.0212
+110,28,Iowa,3,Some Other Race,39048,0.0124
+111,28,Iowa,6,American Indian and Alaska Native,11976,0.0038
+112,28,Iowa,7,Native Hawaiian and Other Pacific Islander,3729,0.0012
+113,32,Kansas,1,White,2455939,0.8438
+114,32,Kansas,4,Black or African American,170291,0.0585
+115,32,Kansas,5,Two or More Races,100557,0.0345
+116,32,Kansas,2,Asian,85794,0.0295
+117,32,Kansas,3,Some Other Race,71683,0.0246
+118,32,Kansas,6,American Indian and Alaska Native,24010,0.0082
+119,32,Kansas,7,Native Hawaiian and Other Pacific Islander,2382,0.0008
+120,25,Kentucky,1,White,3868484,0.8695
+121,25,Kentucky,4,Black or African American,358928,0.0807
+122,25,Kentucky,5,Two or More Races,100285,0.0225
+123,25,Kentucky,2,Asian,65191,0.0147
+124,25,Kentucky,3,Some Other Race,43601,0.0098
+125,25,Kentucky,6,American Indian and Alaska Native,9386,0.0021
+126,25,Kentucky,7,Native Hawaiian and Other Pacific Islander,3182,0.0007
+127,23,Louisiana,1,White,2892278,0.6201
+128,23,Louisiana,4,Black or African American,1502967,0.3222
+129,23,Louisiana,5,Two or More Races,94959,0.0204
+130,23,Louisiana,2,Asian,80806,0.0173
+131,23,Louisiana,3,Some Other Race,65592,0.0141
+132,23,Louisiana,6,American Indian and Alaska Native,26361,0.0057
+133,23,Louisiana,7,Native Hawaiian and Other Pacific Islander,1406,0.0003
+134,48,Maine,1,White,1259521,0.9431
+135,48,Maine,5,Two or More Races,29796,0.0223
+136,48,Maine,4,Black or African American,18468,0.0138
+137,48,Maine,2,Asian,15109,0.0113
+138,48,Maine,6,American Indian and Alaska Native,8660,0.0065
+139,48,Maine,3,Some Other Race,3541,0.0027
+140,48,Maine,7,Native Hawaiian and Other Pacific Islander,396,0.0003
+141,26,Maryland,1,White,3343000,0.5554
+142,26,Maryland,4,Black or African American,1799098,0.2989
+143,26,Maryland,2,Asian,378126,0.0628
+144,26,Maryland,3,Some Other Race,272137,0.0452
+145,26,Maryland,5,Two or More Races,206692,0.0343
+146,26,Maryland,6,American Indian and Alaska Native,16762,0.0028
+147,26,Maryland,7,Native Hawaiian and Other Pacific Islander,3034,0.0005
+148,15,Massachusetts,1,White,5348539,0.7807
+149,15,Massachusetts,4,Black or African American,522357,0.0763
+150,15,Massachusetts,2,Asian,452436,0.066
+151,15,Massachusetts,3,Some Other Race,286619,0.0418
+152,15,Massachusetts,5,Two or More Races,223035,0.0326
+153,15,Massachusetts,6,American Indian and Alaska Native,14764,0.0022
+154,15,Massachusetts,7,Native Hawaiian and Other Pacific Islander,2804,0.0004
+155,13,Michigan,1,White,7813755,0.7841
+156,13,Michigan,4,Black or African American,1374310,0.1379
+157,13,Michigan,2,Asian,311721,0.0313
+158,13,Michigan,5,Two or More Races,291259,0.0292
+159,13,Michigan,3,Some Other Race,117801,0.0118
+160,13,Michigan,6,American Indian and Alaska Native,53316,0.0054
+161,13,Michigan,7,Native Hawaiian and Other Pacific Islander,3099,0.0003
+162,21,Minnesota,1,White,4609053,0.8285
+163,21,Minnesota,4,Black or African American,356515,0.0641
+164,21,Minnesota,2,Asian,268181,0.0482
+165,21,Minnesota,5,Two or More Races,165396,0.0297
+166,21,Minnesota,3,Some Other Race,104032,0.0187
+167,21,Minnesota,6,American Indian and Alaska Native,58011,0.0104
+168,21,Minnesota,7,Native Hawaiian and Other Pacific Islander,2194,0.0004
+169,31,Mississippi,1,White,1743220,0.5841
+170,31,Mississippi,4,Black or African American,1125627,0.3772
+171,31,Mississippi,5,Two or More Races,40296,0.0135
+172,31,Mississippi,3,Some Other Race,30728,0.0103
+173,31,Mississippi,2,Asian,29605,0.0099
+174,31,Mississippi,6,American Indian and Alaska Native,14269,0.0048
+175,31,Mississippi,7,Native Hawaiian and Other Pacific Islander,680,0.0002
+176,18,Missouri,1,White,5015903,0.8216
+177,18,Missouri,4,Black or African American,701334,0.1149
+178,18,Missouri,5,Two or More Races,160368,0.0263
+179,18,Missouri,2,Asian,120654,0.0198
+180,18,Missouri,3,Some Other Race,71335,0.0117
+181,18,Missouri,6,American Indian and Alaska Native,27084,0.0044
+182,18,Missouri,7,Native Hawaiian and Other Pacific Islander,8231,0.0013
+183,42,Montana,1,White,930204,0.8854
+184,42,Montana,6,American Indian and Alaska Native,66839,0.0636
+185,42,Montana,5,Two or More Races,32161,0.0306
+186,42,Montana,2,Asian,8259,0.0079
+187,42,Montana,3,Some Other Race,7076,0.0067
+188,42,Montana,4,Black or African American,5303,0.005
+189,42,Montana,7,Native Hawaiian and Other Pacific Islander,807,0.0008
+190,35,Nebraska,1,White,1666870,0.8706
+191,35,Nebraska,4,Black or African American,92406,0.0483
+192,35,Nebraska,5,Two or More Races,50386,0.0263
+193,35,Nebraska,2,Asian,45655,0.0238
+194,35,Nebraska,3,Some Other Race,40253,0.021
+195,35,Nebraska,6,American Indian and Alaska Native,17673,0.0092
+196,35,Nebraska,7,Native Hawaiian and Other Pacific Islander,1327,0.0007
+197,33,Nevada,1,White,1949710,0.6559
+198,33,Nevada,3,Some Other Race,304947,0.1026
+199,33,Nevada,4,Black or African American,271005,0.0912
+200,33,Nevada,2,Asian,242267,0.0815
+201,33,Nevada,5,Two or More Races,146408,0.0493
+202,33,Nevada,6,American Indian and Alaska Native,38026,0.0128
+203,33,Nevada,7,Native Hawaiian and Other Pacific Islander,20022,0.0067
+204,45,New Hampshire,1,White,1252131,0.9288
+205,45,New Hampshire,2,Asian,36180,0.0268
+206,45,New Hampshire,5,Two or More Races,28281,0.021
+207,45,New Hampshire,4,Black or African American,21546,0.016
+208,45,New Hampshire,3,Some Other Race,7510,0.0056
+209,45,New Hampshire,6,American Indian and Alaska Native,2036,0.0015
+210,45,New Hampshire,7,Native Hawaiian and Other Pacific Islander,443,0.0003
+211,10,New Jersey,1,White,6018070,0.6778
+212,10,New Jersey,4,Black or African American,1194881,0.1346
+213,10,New Jersey,2,Asian,840168,0.0946
+214,10,New Jersey,3,Some Other Race,558665,0.0629
+215,10,New Jersey,5,Two or More Races,243545,0.0274
+216,10,New Jersey,6,American Indian and Alaska Native,19711,0.0022
+217,10,New Jersey,7,Native Hawaiian and Other Pacific Islander,3458,0.0004
+218,36,New Mexico,1,White,1565366,0.7481
+219,36,New Mexico,6,American Indian and Alaska Native,199845,0.0955
+220,36,New Mexico,3,Some Other Race,180638,0.0863
+221,36,New Mexico,5,Two or More Races,68264,0.0326
+222,36,New Mexico,4,Black or African American,44120,0.0211
+223,36,New Mexico,2,Asian,32577,0.0156
+224,36,New Mexico,7,Native Hawaiian and Other Pacific Islander,1644,0.0008
+225,4,New York,1,White,12459680,0.6366
+226,4,New York,4,Black or African American,3065467,0.1566
+227,4,New York,3,Some Other Race,1694965,0.0866
+228,4,New York,2,Asian,1647607,0.0842
+229,4,New York,5,Two or More Races,616257,0.0315
+230,4,New York,6,American Indian and Alaska Native,79512,0.0041
+231,4,New York,7,Native Hawaiian and Other Pacific Islander,8821,0.0005
+232,9,North Carolina,1,White,7049921,0.6868
+233,9,North Carolina,4,Black or African American,2200760,0.2144
+234,9,North Carolina,3,Some Other Race,316763,0.0309
+235,9,North Carolina,2,Asian,292992,0.0285
+236,9,North Carolina,5,Two or More Races,273276,0.0266
+237,9,North Carolina,6,American Indian and Alaska Native,123952,0.0121
+238,9,North Carolina,7,Native Hawaiian and Other Pacific Islander,7213,0.0007
+239,43,North Dakota,1,White,655136,0.8658
+240,43,North Dakota,6,American Indian and Alaska Native,40006,0.0529
+241,43,North Dakota,4,Black or African American,21985,0.0291
+242,43,North Dakota,5,Two or More Races,19612,0.0259
+243,43,North Dakota,2,Asian,11006,0.0145
+244,43,North Dakota,3,Some Other Race,8109,0.0107
+245,43,North Dakota,7,Native Hawaiian and Other Pacific Islander,863,0.0011
+246,7,Ohio,1,White,9476052,0.813
+247,7,Ohio,4,Black or African American,1446196,0.1241
+248,7,Ohio,5,Two or More Races,335426,0.0288
+249,7,Ohio,2,Asian,258199,0.0222
+250,7,Ohio,3,Some Other Race,112836,0.0097
+251,7,Ohio,6,American Indian and Alaska Native,22816,0.002
+252,7,Ohio,7,Native Hawaiian and Other Pacific Islander,3880,0.0003
+253,24,Oklahoma,1,White,2844069,0.7232
+254,24,Oklahoma,5,Two or More Races,304615,0.0775
+255,24,Oklahoma,6,American Indian and Alaska Native,299621,0.0762
+256,24,Oklahoma,4,Black or African American,286356,0.0728
+257,24,Oklahoma,3,Some Other Race,106709,0.0271
+258,24,Oklahoma,2,Asian,85239,0.0217
+259,24,Oklahoma,7,Native Hawaiian and Other Pacific Islander,6260,0.0016
+260,38,Oregon,1,White,3480918,0.8429
+261,38,Oregon,5,Two or More Races,198352,0.048
+262,38,Oregon,2,Asian,180580,0.0437
+263,38,Oregon,3,Some Other Race,126587,0.0307
+264,38,Oregon,4,Black or African American,78679,0.0191
+265,38,Oregon,6,American Indian and Alaska Native,48060,0.0116
+266,38,Oregon,7,Native Hawaiian and Other Pacific Islander,16625,0.004
+267,8,Pennsylvania,1,White,10300599,0.8053
+268,8,Pennsylvania,4,Black or African American,1430661,0.1118
+269,8,Pennsylvania,2,Asian,436324,0.0341
+270,8,Pennsylvania,5,Two or More Races,319874,0.025
+271,8,Pennsylvania,3,Some Other Race,275177,0.0215
+272,8,Pennsylvania,6,American Indian and Alaska Native,24691,0.0019
+273,8,Pennsylvania,7,Native Hawaiian and Other Pacific Islander,4198,0.0003
+274,52,Puerto Rico,1,White,2188013,0.6593
+275,52,Puerto Rico,3,Some Other Race,554764,0.1672
+276,52,Puerto Rico,4,Black or African American,386676,0.1165
+277,52,Puerto Rico,5,Two or More Races,175649,0.0529
+278,52,Puerto Rico,6,American Indian and Alaska Native,6838,0.0021
+279,52,Puerto Rico,2,Asian,6237,0.0019
+280,52,Puerto Rico,7,Native Hawaiian and Other Pacific Islander,269,0.0001
+281,40,Rhode Island,1,White,850597,0.8046
+282,40,Rhode Island,4,Black or African American,71561,0.0677
+283,40,Rhode Island,3,Some Other Race,57807,0.0547
+284,40,Rhode Island,2,Asian,35958,0.034
+285,40,Rhode Island,5,Two or More Races,35221,0.0333
+286,40,Rhode Island,6,American Indian and Alaska Native,5277,0.005
+287,40,Rhode Island,7,Native Hawaiian and Other Pacific Islander,810,0.0008
+288,19,South Carolina,1,White,3372010,0.6716
+289,19,South Carolina,4,Black or African American,1344143,0.2677
+290,19,South Carolina,5,Two or More Races,115930,0.0231
+291,19,South Carolina,3,Some Other Race,88274,0.0176
+292,19,South Carolina,2,Asian,78805,0.0157
+293,19,South Carolina,6,American Indian and Alaska Native,17645,0.0035
+294,19,South Carolina,7,Native Hawaiian and Other Pacific Islander,4002,0.0008
+295,41,South Dakota,1,White,733719,0.8427
+296,41,South Dakota,6,American Indian and Alaska Native,76190,0.0875
+297,41,South Dakota,5,Two or More Races,22837,0.0262
+298,41,South Dakota,4,Black or African American,17531,0.0201
+299,41,South Dakota,2,Asian,12627,0.0145
+300,41,South Dakota,3,Some Other Race,7230,0.0083
+301,41,South Dakota,7,Native Hawaiian and Other Pacific Islander,504,0.0006
+302,12,Tennessee,1,White,5205134,0.7758
+303,12,Tennessee,4,Black or African American,1124475,0.1676
+304,12,Tennessee,5,Two or More Races,147536,0.022
+305,12,Tennessee,2,Asian,117600,0.0175
+306,12,Tennessee,3,Some Other Race,92655,0.0138
+307,12,Tennessee,6,American Indian and Alaska Native,18189,0.0027
+308,12,Tennessee,7,Native Hawaiian and Other Pacific Islander,3771,0.0006
+309,2,Texas,1,White,20903340,0.7397
+310,2,Texas,4,Black or African American,3428214,0.1213
+311,2,Texas,3,Some Other Race,1643865,0.0582
+312,2,Texas,2,Asian,1357269,0.048
+313,2,Texas,5,Two or More Races,761411,0.0269
+314,2,Texas,6,American Indian and Alaska Native,141425,0.005
+315,2,Texas,7,Native Hawaiian and Other Pacific Islander,25292,0.0009
+316,27,Utah,1,White,2676485,0.8643
+317,27,Utah,3,Some Other Race,156229,0.0504
+318,27,Utah,5,Two or More Races,94036,0.0304
+319,27,Utah,2,Asian,71977,0.0232
+320,27,Utah,4,Black or African American,36849,0.0119
+321,27,Utah,6,American Indian and Alaska Native,33721,0.0109
+322,27,Utah,7,Native Hawaiian and Other Pacific Islander,27554,0.0089
+323,51,Vermont,1,White,587883,0.9416
+324,51,Vermont,5,Two or More Races,12600,0.0202
+325,51,Vermont,2,Asian,10461,0.0168
+326,51,Vermont,4,Black or African American,8502,0.0136
+327,51,Vermont,3,Some Other Race,2410,0.0039
+328,51,Vermont,6,American Indian and Alaska Native,2132,0.0034
+329,51,Vermont,7,Native Hawaiian and Other Pacific Islander,325,0.0005
+330,16,Virginia,1,White,5717618,0.6763
+331,16,Virginia,4,Black or African American,1621596,0.1918
+332,16,Virginia,2,Asian,541133,0.064
+333,16,Virginia,5,Two or More Races,320275,0.0379
+334,16,Virginia,3,Some Other Race,223794,0.0265
+335,16,Virginia,6,American Indian and Alaska Native,23873,0.0028
+336,16,Virginia,7,Native Hawaiian and Other Pacific Islander,6179,0.0007
+337,29,Washington,1,White,5581123,0.7538
+338,29,Washington,2,Asian,631333,0.0853
+339,29,Washington,5,Two or More Races,433386,0.0585
+340,29,Washington,3,Some Other Race,333038,0.045
+341,29,Washington,4,Black or African American,281683,0.038
+342,29,Washington,6,American Indian and Alaska Native,94449,0.0128
+343,29,Washington,7,Native Hawaiian and Other Pacific Islander,49090,0.0066
+344,39,West Virginia,1,White,1691604,0.9308
+345,39,West Virginia,4,Black or African American,66990,0.0369
+346,39,West Virginia,5,Two or More Races,32135,0.0177
+347,39,West Virginia,2,Asian,14523,0.008
+348,39,West Virginia,3,Some Other Race,7971,0.0044
+349,39,West Virginia,6,American Indian and Alaska Native,3667,0.002
+350,39,West Virginia,7,Native Hawaiian and Other Pacific Islander,419,0.0002
+351,17,Wisconsin,1,White,4946962,0.8543
+352,17,Wisconsin,4,Black or African American,371200,0.0641
+353,17,Wisconsin,2,Asian,161841,0.0279
+354,17,Wisconsin,5,Two or More Races,138572,0.0239
+355,17,Wisconsin,3,Some Other Race,118350,0.0204
+356,17,Wisconsin,6,American Indian and Alaska Native,51392,0.0089
+357,17,Wisconsin,7,Native Hawaiian and Other Pacific Islander,2400,0.0004
+358,47,Wyoming,1,White,531304,0.9144
+359,47,Wyoming,5,Two or More Races,15521,0.0267
+360,47,Wyoming,6,American Indian and Alaska Native,14164,0.0244
+361,47,Wyoming,3,Some Other Race,8832,0.0152
+362,47,Wyoming,4,Black or African American,5582,0.0096
+363,47,Wyoming,2,Asian,5025,0.0086
+364,47,Wyoming,7,Native Hawaiian and Other Pacific Islander,596,0.001

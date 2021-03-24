@@ -1,0 +1,261 @@
+pop_earnings_id,state_id,state_name,state_earning_edu,state_earning_average,state_earning_male,state_earning_female,education_id
+1,20,Alabama,Less Than High School,22172,26478,16189,1
+2,20,Alabama,High School Grad,29892,36172,22350,3
+3,20,Alabama,Some College,33590,44083,27354,4
+4,20,Alabama,Bachelors Degree,50516,64767,41331,6
+5,20,Alabama,Graduate Degree,60823,83273,53388,7
+6,46,Alaska,Less Than High School,25297,28833,21279,1
+7,46,Alaska,High School Grad,36261,42097,27295,3
+8,46,Alaska,Some College,44630,53836,36263,4
+9,46,Alaska,Bachelors Degree,57703,69741,48429,6
+10,46,Alaska,Graduate Degree,76638,87626,70144,7
+11,11,Arizona,Less Than High School,23176,26428,18549,1
+12,11,Arizona,High School Grad,30424,33572,25536,3
+13,11,Arizona,Some College,36809,43030,31451,4
+14,11,Arizona,Bachelors Degree,52892,64232,44561,6
+15,11,Arizona,Graduate Degree,67140,84402,55394,7
+16,1,Arkansas,Less Than High School,24263,27237,19090,1
+17,30,Arkansas,High School Grad,29034,33799,22919,3
+18,30,Arkansas,Some College,32053,40068,27468,4
+19,30,Arkansas,Bachelors Degree,47466,58917,41082,6
+20,30,Arkansas,Graduate Degree,61057,76266,53961,7
+21,1,California,Less Than High School,23760,27427,18080,1
+22,1,California,High School Grad,31674,37077,26148,3
+23,1,California,Some College,39907,47112,32818,4
+24,1,California,Bachelors Degree,63230,75794,53357,6
+25,1,California,Graduate Degree,89605,107203,75768,7
+26,22,Colorado,Less Than High School,27416,32347,19593,1
+27,22,Colorado,High School Grad,33987,39762,27283,3
+28,22,Colorado,Some College,39197,46570,31915,4
+29,22,Colorado,Bachelors Degree,54487,67534,45208,6
+30,22,Colorado,Graduate Degree,70373,89110,57521,7
+31,34,Connecticut,Less Than High School,25402,29631,20540,1
+32,34,Connecticut,High School Grad,37039,44211,29694,3
+33,34,Connecticut,Some College,43570,52768,36633,4
+34,34,Connecticut,Bachelors Degree,64843,80537,52985,6
+35,34,Connecticut,Graduate Degree,85052,105204,71445,7
+36,44,Delaware,Less Than High School,27060,31458,21011,1
+37,44,Delaware,High School Grad,32656,40373,27175,3
+38,44,Delaware,Some College,39090,45928,32950,4
+39,44,Delaware,Bachelors Degree,57420,66333,50628,6
+40,44,Delaware,Graduate Degree,72013,85304,65156,7
+41,49,District of Columbia,Less Than High School,25459,29132,21664,1
+42,49,District of Columbia,High School Grad,31226,32183,30098,3
+43,49,District of Columbia,Some College,41102,42372,39465,4
+44,49,District of Columbia,Bachelors Degree,69745,77874,62978,6
+45,49,District of Columbia,Graduate Degree,97039,106773,87323,7
+46,3,Florida,Less Than High School,21982,25628,17624,1
+47,3,Florida,High School Grad,27854,31703,23483,3
+48,3,Florida,Some College,33595,39230,30488,4
+49,3,Florida,Bachelors Degree,47440,56204,41640,6
+50,3,Florida,Graduate Degree,62789,79648,53513,7
+51,6,Georgia,Less Than High School,23128,26605,17790,1
+52,6,Georgia,High School Grad,30264,34648,24322,3
+53,6,Georgia,Some College,35222,43597,29573,4
+54,6,Georgia,Bachelors Degree,53783,67378,44919,6
+55,6,Georgia,Graduate Degree,67503,86620,58871,7
+56,50,Hawaii,Less Than High School,27361,31053,24860,1
+57,50,Hawaii,High School Grad,34129,39132,30106,3
+58,50,Hawaii,Some College,40528,47559,34880,4
+59,50,Hawaii,Bachelors Degree,51652,61224,45553,6
+60,50,Hawaii,Graduate Degree,70271,82246,61958,7
+61,37,Idaho,Less Than High School,25298,30728,17163,1
+62,37,Idaho,High School Grad,30417,36137,22015,3
+63,37,Idaho,Some College,32256,41902,25531,4
+64,37,Idaho,Bachelors Degree,45248,58261,36034,6
+65,37,Idaho,Graduate Degree,62750,76910,51312,7
+66,5,Illinois,Less Than High School,25258,29783,19924,1
+67,5,Illinois,High School Grad,31625,39315,25055,3
+68,5,Illinois,Some College,38395,48471,30836,4
+69,5,Illinois,Bachelors Degree,58803,72286,48829,6
+70,5,Illinois,Graduate Degree,76258,95641,64162,7
+71,14,Indiana,Less Than High School,25112,30435,18048,1
+72,14,Indiana,High School Grad,31968,40208,24746,3
+73,14,Indiana,Some College,36600,46702,29754,4
+74,14,Indiana,Bachelors Degree,50751,63919,41777,6
+75,14,Indiana,Graduate Degree,64207,78707,55776,7
+76,28,Iowa,Less Than High School,28339,32552,20603,1
+77,28,Iowa,High School Grad,32597,40799,24746,3
+78,28,Iowa,Some College,37900,46621,30589,4
+79,28,Iowa,Bachelors Degree,51947,63035,43412,6
+80,28,Iowa,Graduate Degree,67050,79523,61037,7
+81,32,Kansas,Less Than High School,26088,31079,18536,1
+82,32,Kansas,High School Grad,30998,37875,23205,3
+83,32,Kansas,Some College,36097,44471,29414,4
+84,32,Kansas,Bachelors Degree,50394,63214,41623,6
+85,32,Kansas,Graduate Degree,62748,79448,54117,7
+86,25,Kentucky,Less Than High School,21778,25562,16812,1
+87,25,Kentucky,High School Grad,30445,36190,23266,3
+88,25,Kentucky,Some College,34220,43297,28397,4
+89,25,Kentucky,Bachelors Degree,49743,59436,42075,6
+90,25,Kentucky,Graduate Degree,58942,72541,53915,7
+91,23,Louisiana,Less Than High School,21938,28562,15619,1
+92,23,Louisiana,High School Grad,30265,40742,21908,3
+93,23,Louisiana,Some College,34454,46939,27545,4
+94,23,Louisiana,Bachelors Degree,50018,63053,42938,6
+95,23,Louisiana,Graduate Degree,60735,80012,52877,7
+96,48,Maine,Less Than High School,23228,26783,17488,1
+97,48,Maine,High School Grad,30626,36683,24170,3
+98,48,Maine,Some College,35985,43752,30506,4
+99,48,Maine,Bachelors Degree,45866,54630,39732,6
+100,48,Maine,Graduate Degree,60244,70280,54835,7
+101,26,Maryland,Less Than High School,27311,31822,20858,1
+102,26,Maryland,High School Grad,36394,42375,30368,3
+103,26,Maryland,Some College,44455,52838,38554,4
+104,26,Maryland,Bachelors Degree,64348,76742,55340,6
+105,26,Maryland,Graduate Degree,87668,106133,75625,7
+106,15,Massachusetts,Less Than High School,26978,31566,21586,1
+107,15,Massachusetts,High School Grad,36973,44512,28546,3
+108,15,Massachusetts,Some College,42469,51971,35774,4
+109,15,Massachusetts,Bachelors Degree,63834,77340,53542,6
+110,15,Massachusetts,Graduate Degree,82404,102691,71508,7
+111,13,Michigan,Less Than High School,21996,26492,16517,1
+112,13,Michigan,High School Grad,30234,36280,23085,3
+113,13,Michigan,Some College,35492,44845,29029,4
+114,13,Michigan,Bachelors Degree,53617,67863,43125,6
+115,13,Michigan,Graduate Degree,72470,90046,61285,7
+116,21,Minnesota,Less Than High School,26221,31013,20370,1
+117,21,Minnesota,High School Grad,33564,40634,26505,3
+118,21,Minnesota,Some College,40979,49328,33836,4
+119,21,Minnesota,Bachelors Degree,58085,70534,49162,6
+120,21,Minnesota,Graduate Degree,75047,87163,66319,7
+121,31,Mississippi,Less Than High School,21933,26974,15938,1
+122,31,Mississippi,High School Grad,27454,33197,21223,3
+123,31,Mississippi,Some College,31773,41202,26416,4
+124,31,Mississippi,Bachelors Degree,43511,54644,37892,6
+125,31,Mississippi,Graduate Degree,55505,71607,50424,7
+126,18,Missouri,Less Than High School,23275,27619,17990,1
+127,18,Missouri,High School Grad,30658,36773,24162,3
+128,18,Missouri,Some College,35102,42861,29850,4
+129,18,Missouri,Bachelors Degree,50042,61420,41934,6
+130,18,Missouri,Graduate Degree,62076,77284,53957,7
+131,42,Montana,Less Than High School,21008,27006,14910,1
+132,42,Montana,High School Grad,29187,35589,22431,3
+133,42,Montana,Some College,31875,40302,26735,4
+134,42,Montana,Bachelors Degree,42388,51534,37148,6
+135,42,Montana,Graduate Degree,57471,68343,51624,7
+136,35,Nebraska,Less Than High School,26610,31204,20127,1
+137,35,Nebraska,High School Grad,31488,38657,24695,3
+138,35,Nebraska,Some College,37348,46021,30342,4
+139,35,Nebraska,Bachelors Degree,50424,60978,42926,6
+140,35,Nebraska,Graduate Degree,63653,76298,57074,7
+141,33,Nevada,Less Than High School,27489,30858,23075,1
+142,33,Nevada,High School Grad,32067,36540,28197,3
+143,33,Nevada,Some College,37952,43626,32409,4
+144,33,Nevada,Bachelors Degree,49770,57240,42926,6
+145,33,Nevada,Graduate Degree,67544,80782,60009,7
+146,45,New Hampshire,Less Than High School,29284,33198,22771,1
+147,45,New Hampshire,High School Grad,36311,43164,28547,3
+148,45,New Hampshire,Some College,42222,51980,34787,4
+149,45,New Hampshire,Bachelors Degree,57385,74158,46179,6
+150,45,New Hampshire,Graduate Degree,72303,93432,62232,7
+151,10,New Jersey,Less Than High School,25024,29748,19396,1
+152,10,New Jersey,High School Grad,34524,42045,27094,3
+153,10,New Jersey,Some College,43294,52609,35805,4
+154,10,New Jersey,Bachelors Degree,66241,81652,56093,6
+155,10,New Jersey,Graduate Degree,91373,110939,74567,7
+156,36,New Mexico,Less Than High School,20375,25024,14595,1
+157,36,New Mexico,High School Grad,27471,31778,22354,3
+158,36,New Mexico,Some College,31676,40028,26538,4
+159,36,New Mexico,Bachelors Degree,45594,51925,41214,6
+160,36,New Mexico,Graduate Degree,62125,79877,55121,7
+161,4,New York,Less Than High School,23196,26947,18507,1
+162,4,New York,High School Grad,32153,39044,26136,3
+163,4,New York,Some College,40430,48104,33947,4
+164,4,New York,Bachelors Degree,61606,71252,53455,6
+165,4,New York,Graduate Degree,78891,95382,69789,7
+166,9,North Carolina,Less Than High School,22459,26011,16854,1
+167,9,North Carolina,High School Grad,29278,32969,23360,3
+168,9,North Carolina,Some College,33784,41493,28967,4
+169,9,North Carolina,Bachelors Degree,50523,63291,42689,6
+170,9,North Carolina,Graduate Degree,63845,85203,54012,7
+171,43,North Dakota,Less Than High School,30865,39464,19820,1
+172,43,North Dakota,High School Grad,36245,43971,26044,3
+173,43,North Dakota,Some College,41707,52032,31612,4
+174,43,North Dakota,Bachelors Degree,51227,62903,44313,6
+175,43,North Dakota,Graduate Degree,65538,77319,59002,7
+176,7,Ohio,Less Than High School,22881,27785,16905,1
+177,7,Ohio,High School Grad,31277,38701,24197,3
+178,7,Ohio,Some College,36098,44753,30274,4
+179,7,Ohio,Bachelors Degree,53703,65129,45039,6
+180,7,Ohio,Graduate Degree,69233,83408,60914,7
+181,24,Oklahoma,Less Than High School,24518,29691,16937,1
+182,24,Oklahoma,High School Grad,30315,37022,23176,3
+183,24,Oklahoma,Some College,35042,43975,28521,4
+184,24,Oklahoma,Bachelors Degree,47016,60493,39532,6
+185,24,Oklahoma,Graduate Degree,60340,77229,49963,7
+186,38,Oregon,Less Than High School,25506,30001,20388,1
+187,38,Oregon,High School Grad,30815,36061,25236,3
+188,38,Oregon,Some College,35639,42707,30136,4
+189,38,Oregon,Bachelors Degree,51224,62556,42174,6
+190,38,Oregon,Graduate Degree,68522,85269,58594,7
+191,8,Pennsylvania,Less Than High School,25399,30732,18396,1
+192,8,Pennsylvania,High School Grad,32000,40291,25419,3
+193,8,Pennsylvania,Some College,38381,46864,31548,4
+194,8,Pennsylvania,Bachelors Degree,54358,65211,45918,6
+195,8,Pennsylvania,Graduate Degree,73133,89823,62994,7
+196,52,Puerto Rico,Less Than High School,10962,11658,9292,1
+197,52,Puerto Rico,High School Grad,15205,15879,13085,3
+198,52,Puerto Rico,Some College,17412,19285,16175,4
+199,52,Puerto Rico,Bachelors Degree,25511,30122,23622,6
+200,52,Puerto Rico,Graduate Degree,37145,45406,32365,7
+201,40,Rhode Island,Less Than High School,27880,31891,21758,1
+202,40,Rhode Island,High School Grad,36009,42551,29769,3
+203,40,Rhode Island,Some College,40976,49586,35313,4
+204,40,Rhode Island,Bachelors Degree,56642,68194,49041,6
+205,40,Rhode Island,Graduate Degree,76777,87644,69972,7
+206,19,South Carolina,Less Than High School,21391,25135,16002,1
+207,19,South Carolina,High School Grad,28940,33279,23227,3
+208,19,South Carolina,Some College,34096,42705,28285,4
+209,19,South Carolina,Bachelors Degree,49440,62543,39929,6
+210,19,South Carolina,Graduate Degree,59295,76763,52353,7
+211,41,South Dakota,Less Than High School,25740,29366,19485,1
+212,41,South Dakota,High School Grad,31248,38115,24335,3
+213,41,South Dakota,Some College,36300,44336,30048,4
+214,41,South Dakota,Bachelors Degree,45948,54319,39879,6
+215,41,South Dakota,Graduate Degree,57538,66625,52762,7
+216,12,Tennessee,Less Than High School,22491,26222,17471,1
+217,12,Tennessee,High School Grad,29753,34732,23746,3
+218,12,Tennessee,Some College,34634,42542,29395,4
+219,12,Tennessee,Bachelors Degree,49236,60928,41791,6
+220,12,Tennessee,Graduate Degree,62229,79720,53497,7
+221,2,Texas,Less Than High School,23718,28960,16533,1
+222,2,Texas,High School Grad,30683,36743,23862,3
+223,2,Texas,Some College,37934,46389,31172,4
+224,2,Texas,Bachelors Degree,56363,70139,49671,6
+225,2,Texas,Graduate Degree,73266,93806,60982,7
+226,27,Utah,Less Than High School,27005,32116,19783,1
+227,27,Utah,High School Grad,32333,41482,25557,3
+228,27,Utah,Some College,36700,47256,27184,4
+229,27,Utah,Bachelors Degree,50195,66310,35361,6
+230,27,Utah,Graduate Degree,74609,90628,55912,7
+231,51,Vermont,Less Than High School,26777,30672,16845,1
+232,51,Vermont,High School Grad,32404,38289,26416,3
+233,51,Vermont,Some College,38234,44445,32745,4
+234,51,Vermont,Bachelors Degree,44606,53240,39314,6
+235,51,Vermont,Graduate Degree,61517,73233,54726,7
+236,16,Virginia,Less Than High School,25054,30376,18443,1
+237,16,Virginia,High School Grad,31759,38381,25685,3
+238,16,Virginia,Some College,39256,47924,32200,4
+239,16,Virginia,Bachelors Degree,60520,76339,49537,6
+240,16,Virginia,Graduate Degree,84674,106984,65411,7
+241,29,Washington,Less Than High School,27253,31755,21228,1
+242,29,Washington,High School Grad,35244,42001,27512,3
+243,29,Washington,Some College,41018,50661,32499,4
+244,29,Washington,Bachelors Degree,61735,77313,49017,6
+245,29,Washington,Graduate Degree,80457,101172,66057,7
+246,39,West Virginia,Less Than High School,21292,26282,15450,1
+247,39,West Virginia,High School Grad,29353,37571,22263,3
+248,39,West Virginia,Some College,32352,43719,26566,4
+249,39,West Virginia,Bachelors Degree,44906,53851,39036,6
+250,39,West Virginia,Graduate Degree,56808,71106,51815,7
+251,17,Wisconsin,Less Than High School,26869,31213,20664,1
+252,17,Wisconsin,High School Grad,32738,40477,25984,3
+253,17,Wisconsin,Some College,38901,47841,31511,4
+254,17,Wisconsin,Bachelors Degree,52686,64190,44927,6
+255,17,Wisconsin,Graduate Degree,66536,79154,60231,7
+256,47,Wyoming,Less Than High School,26671,32896,18191,1
+257,47,Wyoming,High School Grad,34778,47373,23504,3
+258,47,Wyoming,Some College,37699,51439,28739,4
+259,47,Wyoming,Bachelors Degree,49141,55557,43077,6
+260,47,Wyoming,Graduate Degree,62430,68893,57694,7
